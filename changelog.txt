@@ -1,0 +1,6 @@
+\Version /107~
+
+-lms system
+-updated vanilla characters
+-added new 7 characters
+-something else idk
